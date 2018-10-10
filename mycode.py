@@ -8,6 +8,8 @@ def hello_world():
 ## test 1-1
 # def calcule_score():
 # 	return ""
+# commentaire
+#
 
 #test 1-2
 #ne jamais oublier les paramètre de name et age pour qu'il accepte
