@@ -35,4 +35,4 @@ class MyFirstTest(unittest.TestCase):
 
 if __name__=='__main__':
 	unittest.main()
-
+#il faut toujour ajouter  les deux dernières phrases
