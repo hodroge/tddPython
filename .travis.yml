@@ -8,4 +8,4 @@ python:
 
 #nom de ton fichier
 script:
-  -python test_hello_word.py
+  - python test_hello_word.py
