@@ -1,11 +1,11 @@
 language: python
 #mettre la version python
 python:
-- 3.6
-- 2.7
+  - 3.6
+  - 2.7
 
 #mettre rien comme rien, est installer
 
 #nom de ton fichier
 script:
--python test_hello_word.py
+  -python test_hello_word.py
